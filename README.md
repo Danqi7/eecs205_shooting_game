@@ -10,3 +10,4 @@ ADVANCED FEATURES:
 2. Sound or Music - The boob sound will be played when detected by the enemy
 3. Gravity or Other Forces - the enemy fighter is flying under the force of gravity and the nuke flies in increasing velocity
 4. Powerups - Press P to power up the fighter
+# eecs205_shooting_game
